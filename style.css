@@ -1,11 +1,7 @@
 body{
 	background-color: blue;
 }
-p{
-	font-size: 20 px;
-	cursor: pointer;
 
-}
 h1{
 	float: right;
 }
